@@ -1,0 +1,12 @@
+{
+  "name": "react-dummy",
+  "displayName": "react-dummy",
+  "expo": {
+    "name": "react-dummy",
+    "slug": "react-dummy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+module Pods_reactdummy {
+  umbrella header "Pods-reactdummy-umbrella.h"
+
+  export *
+  module * { export * }
+}
